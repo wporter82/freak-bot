@@ -1,0 +1,15 @@
+{
+  "name": "freak-bot",
+  "version": "0.0.1",
+  "description": "Chat bot for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FreakZombie",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.7.2"
+  }
+}
