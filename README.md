@@ -2,6 +2,8 @@
 
 This is a simple but extensible Twitch chat bot that runs via nodejs
 
+Watch me building it live on [Twitch](https://twitch.tv/freakzombie) or see the past streams on [Youtube](https://youtube.com/playlist?list=PL_eqRphNyF_Sc3QijRRFqZAnV5pWQW_is).
+
 # Setup
 
 You have to create a file named `.env` that contains the following:
